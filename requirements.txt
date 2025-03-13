@@ -1,0 +1,3 @@
+pandas
+pillow
+pillow_heif
