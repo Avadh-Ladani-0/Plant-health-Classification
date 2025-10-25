@@ -1,7 +1,11 @@
 ex.ipynb
 ex.py
-.venv
-RAW
-img_data.csv
+.env2/
+RAW/
+tvisha_images/
+new_to_std_csv.py
 repo.txt
-classification.ipynb
+tvisha_dataset_csv.xlsx
+tvisha_dataset.csv
+tvisha_dataset2.csv
+tvisha_dataset3.csv
