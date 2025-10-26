@@ -4,7 +4,7 @@ This repository contains a Jupyter Notebook-based project focused on plant healt
 
 ## Project Overview
 
-Plant health is crucial for agriculture and environmental monitoring. Traditional methods of assessing plant health are often time-consuming and labor-intensive. This project explores the use of hyperspectral imaging and computer vision to provide a more efficient and accurate alternative. By analyzing both spectral data obtained from a spectrometer and visual information from images, we aim to create a classification model that can identify various plant health conditions.
+Plant health is crucial for agriculture and environmental monitoring. Traditional methods of assessing plant health are often time-consuming and labor-intensive. This project explores the use of hyperspectral imaging and computer vision to provide a more efficient and accurate alternative. By analyzing both spectral data obtained from a spectrometer and visual information from images, we aim to create a classification model that can identify various plant health conditions. Data Augumentation Techniques were also used in order to avoid overfitting of the results.
 
 ## Technologies Used
 
